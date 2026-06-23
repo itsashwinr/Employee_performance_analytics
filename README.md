@@ -14,7 +14,7 @@ The project focuses on identifying high-performing departments, workforce produc
 
 ## Live Dashboard
 
-🔗 Tableau Public Dashboard: (https://public.tableau.com/app/profile/ashwin.r4543/viz/EmployeePerformanceandAttritionDashboard/EmployeePerformanceAttritionDashboard?publish=yes)]
+🔗 Tableau Public Dashboard: [View Dashboard](https://public.tableau.com/app/profile/ashwin.r4543/viz/EmployeePerformanceandAttritionDashboard/EmployeePerformanceAttritionDashboard?publish=yes)
 
 ## Dataset
 
